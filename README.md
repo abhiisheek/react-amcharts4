@@ -1,6 +1,6 @@
 # Amcharts4 React
 
-A react wrapper component for `@amcharts/amcharts4` where (any) chart is rendered using JSON config pattern of @amcharts/amcharts4 and also taking care of updates to the render charts.
+A react wrapper component for `@amcharts/amcharts4` where (any) chart is rendered using JSON config pattern of @amcharts/amcharts4 and also taking care of updates to the rendered charts.
 
 ## Install
 
