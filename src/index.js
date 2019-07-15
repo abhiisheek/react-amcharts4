@@ -32,7 +32,7 @@ class AmChart4Wrapper extends PureComponent {
   }
 
   render() {
-    return <div id={this.id} />;
+    return <div id={this.id} style={{ width: "100%", height: "100%" }} />;
   }
 }
 
