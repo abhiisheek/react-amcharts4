@@ -12,7 +12,7 @@ class AmChart4Wrapper extends PureComponent {
 
     const { id } = props;
 
-    this.id = `__amcharts4_${id}__`;
+    this.id = `__amcharts4_${id}_${Date.now()}__`;
   }
 
   componentDidMount() {
