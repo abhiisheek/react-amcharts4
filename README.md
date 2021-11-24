@@ -13,7 +13,7 @@ npm install --save react-amcharts4
 ```jsx
 import React from "react";
 
-import AmChart4Wrapper from "react-amcharts4";
+import AmCharts4Wrapper from "react-amcharts4";
 
 import { PieChart } from "@amcharts/amcharts4/charts";
 
